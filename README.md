@@ -17,8 +17,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/mancabot/v2-manca
-> cd v2-manca
+> git clone https://github.com/alonecans/manca
+> cd manca
 > npm cache clear
 > bash install.sh
 > npm audit fix
