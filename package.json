@@ -49,10 +49,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mancabot/v2-manca.git"
+    "url": "git+https://github.com/alonecans/manca.git"
   },
   "bugs": {
-    "url": "https://github.com/mancabot/v2-manca/issues"
+    "url": "https://github.com/alonecans/manca/issues"
   },
-  "homepage": "https://github.com/mancabot/v2-manca#readme"
+  "homepage": "https://github.com/alonecans/manca#readme"
 }
